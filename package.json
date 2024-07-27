@@ -1,5 +1,5 @@
 {
-  "name": "floor-is-llava",
+  "name": "lloyd-in-san-francisco",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -34,5 +34,14 @@
     "vite": "^5.0.3",
     "wrangler": "^3.64.0"
   },
-  "type": "module"
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:lloydchang/lloyd-in-san-francisco.git",
+  "author": "lloydchang <lloydchang@gmail.com>",
+  "license": "UNLICENSED",
+  "description": "https://lloyd-in-san-francisco.pages.dev/",
+  "dependencies": {
+    "posthog-js": "^1.150.0",
+    "posthog-node": "^4.0.1"
+  }
 }
