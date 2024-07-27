@@ -83,7 +83,7 @@
 
 	const submitForm = async () => {
 		if (!image || !question) {
-			alert("1. Upload image\nMirror, mirror, on the wall,\nwho's the fairest of them all?\n2. Ask your question, e.g. Why?\n3. Message my AI chatbot\n4. Please send me your 🫵 LinkedIn connection request and message me there\n5. Click 🌓 at top\n6. and 🌗 at bottom");
+			alert("1. Upload image\nMirror, mirror, on the wall,\nwho's the fairest of them all?\n2. Ask your question, e.g. Why?\n3. Message my AI bot\n4. Please send me your 🫵 LinkedIn connection request and message me there\n5. Click 🌓 at top\n6. and 🌗 at bottom");
 			return;
 		}
 
@@ -154,7 +154,7 @@
 		placeholder="2. Ask your question, e.g. Why?"
 		bind:value={question}
 	/>
-	<button class="submit-button" on:click={submitForm}>3. Message my AI chatbot</button>
+	<button class="submit-button" on:click={submitForm}>3. Message my AI bot</button>
 	{#if isLoading}
 		<div class="loading-indicator">Please wait… ⏳</div>
 	{/if}
@@ -235,7 +235,7 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		margin-left: 50px;
+		margin-left: 20px;
 		margin-top: 0px;
 	}
 
@@ -282,20 +282,20 @@
 		border-radius: 50% 20% / 10% 40%;
 		cursor: pointer;
 		font-size: 32px;
-		margin-left: 50px;
+		margin-left: 20px;
 		margin-top: 0px;
 		margin-bottom: 0px;
 	}
 
 	.submit-button:hover {
-		margin-left: 50px;
+		margin-left: 20px;
 		margin-top: 0px;
 		background-color: #005bb5;
 		margin-bottom: 0px;
 	}
 
 	.loading-indicator {
-		margin-left: 50px;
+		margin-left: 20px;
 		margin-top: 0px;
 		font-size: 64px;
 		color: #0070f3;
@@ -303,7 +303,7 @@
 	}
 
 	.description {
-		margin-left: 50px;
+		margin-left: 20px;
 		margin-top: 0px;
 		font-size: 48px;
 		font-weight: bold;
@@ -319,7 +319,7 @@
 	}
 
 	.footer {
-		margin-left: 50px;
+		margin-left: 20px;
 		margin-top: 0px;
 		text-align: center;
 		font-size: 12px;
@@ -327,14 +327,14 @@
 	}
 
 	.footer p {
-		margin-left: 50px;
+		margin-left: 20px;
 		margin: 0px 0;
 		display: inline;
 		margin-bottom: 0px;
 	}
 
 	.footer a {
-		margin-left: 50px;
+		margin-left: 20px;
 		color: #0070f3;
 		text-decoration: none;
 		margin-bottom: 0px;

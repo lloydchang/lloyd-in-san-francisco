@@ -24,7 +24,7 @@ who's the fairest of them all?
 </a>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
-3. Message my AI chatbot
+3. Message my AI bot
 </a>
 <br>
 <br>
