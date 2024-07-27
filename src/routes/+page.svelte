@@ -111,6 +111,10 @@
 	};
 </script>
 
+<svelte:head>
+    <title>lloyd-in-san-francisco.pages.dev</title>
+</svelte:head>
+
 <div class="container">
 	<h1><center>
 	<p style="color:DarkGray;">👋 Hello, World! 🗺️
