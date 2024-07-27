@@ -8,8 +8,8 @@
 	let description: string | null = null;
 	let isLoading: boolean = false;
 
-	const MAX_WIDTH = 600;
-	const MAX_HEIGHT = 600;
+	const MAX_WIDTH = 1000;
+	const MAX_HEIGHT = 1000;
 
 	const resizeImage = (file: File): Promise<File> => {
 		return new Promise((resolve) => {
@@ -235,6 +235,7 @@
 		display: flex;
 		flex-direction: column;
 		align-items: center;
+		margin-left: 50px;
 		margin-top: 0px;
 	}
 
@@ -281,17 +282,20 @@
 		border-radius: 50% 20% / 10% 40%;
 		cursor: pointer;
 		font-size: 32px;
+		margin-left: 50px;
 		margin-top: 0px;
 		margin-bottom: 0px;
 	}
 
 	.submit-button:hover {
+		margin-left: 50px;
 		margin-top: 0px;
 		background-color: #005bb5;
 		margin-bottom: 0px;
 	}
 
 	.loading-indicator {
+		margin-left: 50px;
 		margin-top: 0px;
 		font-size: 64px;
 		color: #0070f3;
@@ -299,6 +303,7 @@
 	}
 
 	.description {
+		margin-left: 50px;
 		margin-top: 0px;
 		font-size: 48px;
 		font-weight: bold;
@@ -314,6 +319,7 @@
 	}
 
 	.footer {
+		margin-left: 50px;
 		margin-top: 0px;
 		text-align: center;
 		font-size: 12px;
@@ -321,12 +327,14 @@
 	}
 
 	.footer p {
+		margin-left: 50px;
 		margin: 0px 0;
 		display: inline;
 		margin-bottom: 0px;
 	}
 
 	.footer a {
+		margin-left: 50px;
 		color: #0070f3;
 		text-decoration: none;
 		margin-bottom: 0px;
