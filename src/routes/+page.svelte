@@ -8,8 +8,8 @@
 	let description: string | null = null;
 	let isLoading: boolean = false;
 
-	const MAX_WIDTH = 800;
-	const MAX_HEIGHT = 800;
+	const MAX_WIDTH = 600;
+	const MAX_HEIGHT = 600;
 
 	const resizeImage = (file: File): Promise<File> => {
 		return new Promise((resolve) => {
