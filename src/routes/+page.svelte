@@ -158,18 +158,30 @@
 		<div class="description">{description}</div>
 	{/if}
 	<h1><center>
-	<p style="color:DarkGray;">4. Please send me your 🫵<br><a href="https://www.linkedin.com/in/lloydchang/">LinkedIn connection request</a><br>and message me there<br><img src="../lib/images/QR code for www.linkedin.com in lloydchang.jpg" alt="QR code for www.linkedin.com in lloydchang.jpg" width="480" height="480"><br>
-    </p>
-	</center></h1>
+	<p style="color:DarkGray;">
+	4. Please send me your 🫵
+	<br>
+	<a href="https://www.linkedin.com/in/lloydchang/">
+	LinkedIn connection request
+	</a>
+	<br>
+	and message me there
+	<br>
+	<enhanced:img src="../lib/images/QR code for www.linkedin.com in lloydchang.jpg" alt="QR code for www.linkedin.com in lloydchang.jpg"/>
+	</p>
+</center></h1>
 	<div class="footer">
 		<h1>
-		<p style="color:DarkGray;">5. Click 🌓 at top<br>6. and 🌗 at bottom</p>
 		<hr>
 		<p style="color:DarkGray;">Headstarter Fellowship</p>
 		<hr>
 		<a href="https://lloyd-in-san-francisco.pages.dev/">Project 1: Personal Website</a>
 		<br>
-		<img src="../lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg" width="460" height="460">
+		<p style="color:DarkGray;">5. Click 🌓 at top
+		<br>
+		6. and 🌗 at bottom</p>
+		<br>
+		<enhanced:img src="../lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg"/>
 		<br>
 		<p style="color:DarkGray;">✅ Mention AI resources<br>✅ Being an AI engineer</p>
 		<hr>
@@ -180,21 +192,21 @@
 		<p style="color:DarkGray;">and</p>
 		<a href="https://www.ai.engineer/summit/2023">AI Engineer Summit</a>
 		<br>
-		<img src="../lib/images/Lloyd at AI Engineer World's Fair.jpg" alt="Lloyd at AI Engineer World's Fair.jpg" width="460" height="460">
-		<img src="../lib/images/Lloyd at AI Engineer Summit.jpg" alt="Lloyd at AI Engineer Summit.jpg" width="460" height="460">
+		<enhanced:img src="../lib/images/Lloyd at AI Engineer World's Fair.jpg" alt="Lloyd at AI Engineer World's Fair.jpg"/>
+		<enhanced:img src="../lib/images/Lloyd at AI Engineer Summit.jpg" alt="Lloyd at AI Engineer Summit.jpg"/>
 		<hr>
 		<a href="https://discord.com/channels/958775364962889859/1265400160993935480/1266600782590120107">Organize an in-person meetup</a>
 		<br>
-		<img src="../lib/images/Lloyd.jpg" alt="Lloyd.jpg" width="460" height="460">
-		<img src="../lib/images/lloyd-in-san-francisco.jpg" alt="lloyd-in-san-francisco.jpg" width="460" height="460">
+		<enhanced:img src="../lib/images/Lloyd.jpg" alt="Lloyd.jpg"/>
+		<enhanced:img src="../lib/images/lloyd-in-san-francisco.jpg" alt="lloyd-in-san-francisco.jpg"/>
 		<br>
-		<img src="../lib/images/2024 Organize an in-person meetup.jpg" alt="Organize an in-person meetup.jpg" width="460" height="460">
-		<img src="../lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg" width="460" height="460">
+		<enhanced:img src="../lib/images/2024 Organize an in-person meetup.jpg" alt="2024 Organize an in-person meetup.jpg"/>
+		<enhanced:img src="../lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg"/>
 		<hr>
 		<p style="color:DarkGray;">Sample screenshots</p>
 		<br>
-		<img src="../lib/images/dark mode Yasin Ehsan.jpg" alt="dark mode Yasin Ehsan.jpg" width="536" height="1100">
-		<img src="../lib/images/light mode Yasin Ehsan.jpg" alt="light mode Yasin Ehsan.jpg" width="536" height="1100">
+		<enhanced:img src="../lib/images/dark mode Yasin Ehsan.jpg" alt="dark mode Yasin Ehsan.jpg"/>
+		<enhanced:img src="../lib/images/light mode Yasin Ehsan.jpg" alt="light mode Yasin Ehsan.jpg"/>
 		<hr>
 		<p style="color:DarkGray;">Take care; thank you!</p>
 		<br>

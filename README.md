@@ -38,14 +38,6 @@ and message me there
 <br>
 <img src="./src/lib/images/QR code for www.linkedin.com in lloydchang.jpg" alt="QR code for www.linkedin.com in lloydchang.jpeg" width="480" height="480">
 <br>
-<br>
-<a href="https://lloyd-in-san-francisco.pages.dev/">
-5. Click 🌓 at top
-</a>
-<br>
-<a href="https://lloyd-in-san-francisco.pages.dev/">
-6. 🌗 at bottom
-</a>
 </p>
 <hr>
 <p style="text-align: center;">
@@ -55,6 +47,14 @@ Headstarter Fellowship
 <p style="text-align: center;">
 <a href="https://lloyd-in-san-francisco.pages.dev/">
 Project 1: Personal Website
+</a>
+<br>
+<a href="https://lloyd-in-san-francisco.pages.dev/">
+5. Click 🌓 at top
+</a>
+<br>
+<a href="https://lloyd-in-san-francisco.pages.dev/">
+6. 🌗 at bottom
 </a>
 <br>
 <img src="./src/lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg" width="460" height="460">
