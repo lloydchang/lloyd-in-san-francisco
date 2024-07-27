@@ -262,7 +262,7 @@
 	}
 
 	.question-input {
-		width: 960px;
+		width: 460px;
 		padding: 15px;
 		margin-bottom: 0px;
 		font-size: 36px;
