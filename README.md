@@ -5,7 +5,7 @@
 </a>
 </p>
 
-<p style="text-align: center;">👈🏿 🌚 👉🏿
+<p style="text-align: center;">✊🏿 🌚 🙌🏿
 <br>
 <iframe src="
 https://lloyd-in-san-francisco.pages.dev/
@@ -119,7 +119,7 @@ Take care; thank you!
 <a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7
 </a>
 <br>
-👈 🌝 👉
+✊ 🌝 🙌
 <br>
 <br>
 © 2024 Lloyd Chang
