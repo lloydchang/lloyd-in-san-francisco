@@ -7,6 +7,9 @@
 
 <p style="text-align: center;">🌓
 <br>
+<iframe src="https://lloyd-in-san-francisco.pages.dev/">
+</iframe>
+<br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
 1. Upload image
 </a>
@@ -46,6 +49,7 @@ Headstarter Fellowship
 <hr>
 <p style="text-align: center;">
 <a href="https://lloyd-in-san-francisco.pages.dev/">
+<br>
 Project 1: Personal Website
 </a>
 <br>
@@ -63,7 +67,6 @@ Project 1: Personal Website
 <br>
 ✅ Being an AI engineer
 </p>
-<hr>
 <p style="text-align: center;">
 I attended
 <br>
@@ -84,6 +87,8 @@ AI Engineer Summit
 <a href="https://discord.com/channels/958775364962889859/1265400160993935480/1266600782590120107">
 Organize an in-person meetup
 </a>
+</p>
+<hr>
 <br>
 <img src="./src/lib/images/Lloyd.jpg" alt="Lloyd.jpg" width="460" height="460">
 <img src="./src/lib/images/lloyd-in-san-francisco.jpg" alt="lloyd-in-san-francisco.jpg" width="460" height="460">
@@ -92,13 +97,18 @@ Organize an in-person meetup
 <img src="./src/lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg" width="460" height="460">
 <hr>
 <p style="text-align: center;">
-Sample screenshots
+Lloyd's AI bot's sample screenshots
+</p>
+<hr>
 <br>
 <img src="./src/lib/images/dark mode Yasin Ehsan.jpg" alt="dark mode Yasin Ehsan.jpg" width="536" height="1100">
 <img src="./src/lib/images/light mode Yasin Ehsan.jpg" alt="light mode Yasin Ehsan.jpg" width="536" height="1100">
 <hr>
 <p style="text-align: center;">
 Take care; thank you!
+<br>
+<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7
+</a>
 <br>
 🌗
 <br>
