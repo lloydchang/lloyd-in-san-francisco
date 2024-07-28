@@ -5,18 +5,19 @@
 </a>
 </p>
 
-<p style="text-align: center;">🌓
+<p style="text-align: center;">👈🏿 🌚 👉🏿
 <br>
 <iframe src="
 https://lloyd-in-san-francisco.pages.dev/
 "
 width="140"
 height="100"
+title="👋 Hello"
 >
 </iframe>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
-1. Upload image
+1. DRAG a photo 👉 HERE 👈 to UPLOAD
 </a>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
@@ -28,11 +29,11 @@ who's the fairest of them all?
 </a>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
-2. Ask your question, e.g., Why?
+2. Ask your question 👉 HERE 👈, e.g. Why?
 </a>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
-3. Message my AI bot
+3. Message my AI bot 👉 CLICK HERE 👈
 </a>
 <br>
 <br>
@@ -46,6 +47,17 @@ and message me there
 <br>
 <img src="./src/lib/images/QR code for www.linkedin.com in lloydchang.jpg" alt="QR code for www.linkedin.com in lloydchang.jpeg" width="480" height="480">
 <br>
+<br>
+<a href="https://lloyd-in-san-francisco.pages.dev/">
+5. Scroll up & Click 🌓 at ☝️ top 👆
+</a>
+<br>
+<br>
+<a href="https://lloyd-in-san-francisco.pages.dev/">
+6. Scroll down & Click 🌗 at 👇 bottom 👇
+</a>
+<br>
+<br>
 </p>
 <hr>
 <p style="text-align: center;">
@@ -56,14 +68,6 @@ Headstarter Fellowship
 <a href="https://lloyd-in-san-francisco.pages.dev/">
 <br>
 Project 1: Personal Website
-</a>
-<br>
-<a href="https://lloyd-in-san-francisco.pages.dev/">
-5. Click 🌓 at top
-</a>
-<br>
-<a href="https://lloyd-in-san-francisco.pages.dev/">
-6. 🌗 at bottom
 </a>
 <br>
 <img src="./src/lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg" width="460" height="460">
@@ -90,7 +94,7 @@ AI Engineer Summit
 <hr>
 <p style="text-align: center;">
 <a href="https://discord.com/channels/958775364962889859/1265400160993935480/1266600782590120107">
-Organize an in-person meetup
+Worldwide 🌎 🌍 🌏 In Real Life
 </a>
 </p>
 <hr>
@@ -115,7 +119,7 @@ Take care; thank you!
 <a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7
 </a>
 <br>
-🌗
+👈 🌝 👉
 <br>
 <br>
 © 2024 Lloyd Chang

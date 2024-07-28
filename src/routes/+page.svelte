@@ -83,7 +83,7 @@
 
 	const submitForm = async () => {
 		if (!image || !question) {
-			alert("1. Upload image\nMirror, mirror, on the wall,\nwho's the fairest of them all?\n2. Ask your question, e.g. Why?\n3. Message my AI bot\n4. Please send me your 🫵 LinkedIn connection request and message me there\n5. Click 🌓 at top\n6. and 🌗 at bottom");
+			alert("1. Drag a photo 👉 HERE 👈 to UPLOAD\nMirror, mirror, on the wall,\nwho's the fairest of them all?\n2. Ask your question 👉 HERE 👈, e.g. Why?\n3. Message my AI bot 👉 CLICK HERE 👈\n4. Please send me your 🫵 LinkedIn connection request and message me there\n5. Scroll up & Click 🌓 at ☝️ top 👆\n6. Scroll down & Click 🌗 at 👇 bottom 👇");
 			return;
 		}
 
@@ -121,7 +121,7 @@
 	<br>
 	<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7</a>
 	<br></p>
-	<Button>🌓</Button>
+	<Button>👈🏿 🌚 👉🏿</Button>
 	<br>
 	<iframe src="
 	https://lloyd-in-san-francisco.pages.dev/
@@ -153,17 +153,17 @@
 		{#if imageUrl}
 			<img src={imageUrl} alt="Upload preview" />
 		{:else}
-			<label for="file-input">1. Upload image</label>
+			<label for="file-input">1. DRAG a photo 👉 HERE 👈 to UPLOAD</label>
 		{/if}
 	</div>
 	<h1><center>Mirror, mirror, on the wall,<br>who's the fairest of them all?</center></h1>
 	<textarea
 		type="text"
 		class="question-input"
-		placeholder="2. Ask your question, e.g. Why?"
+		placeholder="2. Ask your question 👉 HERE 👈, e.g. Why?"
 		bind:value={question}
 	/>
-	<button class="submit-button" on:click={submitForm}>3. Message my AI bot</button>
+	<button class="submit-button" on:click={submitForm}>3. Message my AI bot 👉 CLICK HERE 👈</button>
 	{#if isLoading}
 		<div class="loading-indicator">Please wait… ⏳</div>
 	{/if}
@@ -181,7 +181,13 @@
 	and message me there
 	<br>
 	<enhanced:img src="../lib/images/QR code for www.linkedin.com in lloydchang.jpg" alt="QR code for www.linkedin.com in lloydchang.jpg"/>
-	</p>
+	<br>
+	<br>
+	5. Scroll up & Click 🌓 at ☝️ top 👆
+	<br>
+	<br>
+	6. Scroll down & Click 🌗 at 👇 bottom 👇</p>
+
 </center></h1>
 	<div class="footer">
 		<h1>
@@ -190,10 +196,6 @@
 		<hr>
 		<br>
 		<a href="https://lloyd-in-san-francisco.pages.dev/">Project 1: Personal Website</a>
-		<br>
-		<p style="color:DarkGray;">5. Click 🌓 at top
-		<br>
-		6. and 🌗 at bottom</p>
 		<br>
 		<enhanced:img src="../lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg"/>
 		<br>
@@ -212,7 +214,7 @@
 		<br>
 		<br>
 		<hr>
-		<a href="https://discord.com/channels/958775364962889859/1265400160993935480/1266600782590120107">Organize an in-person meetup</a>
+		<a href="https://discord.com/channels/958775364962889859/1265400160993935480/1266600782590120107">Worldwide 🌎 🌍 🌏 In Real Life</a>
 		<hr>
 		<enhanced:img src="../lib/images/Lloyd.jpg" alt="Lloyd.jpg"/>
 		<enhanced:img src="../lib/images/lloyd-in-san-francisco.jpg" alt="lloyd-in-san-francisco.jpg"/>
@@ -222,7 +224,7 @@
 		<br>
 		<br>
 		<hr>
-		<p style="color:DarkGray;">Lloyd's AI bot's sample screenshots</p>
+		<p style="color:DarkGray;">Lloyd's AI bot — Sample screenshots</p>
 		<hr>
 		<enhanced:img src="../lib/images/dark mode Yasin Ehsan.jpg" alt="dark mode Yasin Ehsan.jpg"/>
 		<enhanced:img src="../lib/images/light mode Yasin Ehsan.jpg" alt="light mode Yasin Ehsan.jpg"/>
@@ -233,7 +235,7 @@
 		<br>
 		<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7</a>
 		<br>
-		<Button>🌗</Button>
+		<Button>👈 🌝 👉</Button>
 		</h1>
 		<p style="color:DarkGray;">© 2024 Lloyd Chang</p>
 </div>
