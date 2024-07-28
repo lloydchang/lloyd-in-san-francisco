@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { Youtube } from 'svelte-youtube-lite';
 	import Button from './dark-mode-toggle.svelte'
 	let image: File | null = null;
 	let imageUrl: string | null = null;
@@ -117,6 +118,7 @@
 
 <div class="container">
 	<h1><center>
+	<Youtube id="iqClmF_EUmU" title="4:45 AM" />
 	<p style="color:DarkGray;">👋 Hello, World! 🗺️
 	<br>
 	<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7</a>
@@ -191,7 +193,6 @@
 	<br>
 	<br>
 	6. Scroll down & Click ✊ 🌝 🙌 at 👇 bottom 👇</p>
-
 </center></h1>
 	<div class="footer">
 		<h1>

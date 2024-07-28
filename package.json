@@ -43,6 +43,7 @@
   "description": "https://lloyd-in-san-francisco.pages.dev/",
   "dependencies": {
     "posthog-js": "^1.150.0",
-    "posthog-node": "^4.0.1"
+    "posthog-node": "^4.0.1",
+    "svelte-youtube-lite": "^0.5.1"
   }
 }

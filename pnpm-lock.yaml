@@ -14,6 +14,9 @@ importers:
       posthog-node:
         specifier: ^4.0.1
         version: 4.0.1
+      svelte-youtube-lite:
+        specifier: ^0.5.1
+        version: 0.5.1(svelte@4.2.18)
     devDependencies:
       '@cloudflare/workers-types':
         specifier: ^4.20240512.0
@@ -1704,6 +1707,11 @@ packages:
       typescript:
         optional: true
 
+  svelte-youtube-lite@0.5.1:
+    resolution: {integrity: sha512-/GSp7M/esnxXx0ViaxDoZjccvm3xwe+Q+v7o3RaK6k6jX/mj8YwOCZKywJumgSDSXabY7prOjiEoPs1DeLpa4Q==}
+    peerDependencies:
+      svelte: ^4.0.0
+
   svelte@4.2.18:
     resolution: {integrity: sha512-d0FdzYIiAePqRJEb90WlJDkjUEx42xhivxN8muUBmfZnP+tzUgz12DJ2hRJi8sIHCME7jeK1PTMgKPSfTd8JrA==}
     engines: {node: '>=16'}
@@ -3352,6 +3360,10 @@ snapshots:
       postcss: 8.4.40
       postcss-load-config: 3.1.4(postcss@8.4.40)
       typescript: 5.5.4
+
+  svelte-youtube-lite@0.5.1(svelte@4.2.18):
+    dependencies:
+      svelte: 4.2.18
 
   svelte@4.2.18:
     dependencies:
