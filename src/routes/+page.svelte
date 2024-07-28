@@ -179,6 +179,7 @@
 		<hr>
 		<p style="color:DarkGray;">Headstarter Fellowship</p>
 		<hr>
+		<br>
 		<a href="https://lloyd-in-san-francisco.pages.dev/">Project 1: Personal Website</a>
 		<br>
 		<p style="color:DarkGray;">5. Click 🌓 at top
@@ -188,7 +189,8 @@
 		<enhanced:img src="../lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg"/>
 		<br>
 		<p style="color:DarkGray;">✅ Mention AI resources<br>✅ Being an AI engineer</p>
-		<hr>
+		<br>
+		<br>
 		<p style="color:DarkGray;">I attended</p>
 		<br>
 		<a href="https://www.ai.engineer/worldsfair">AI Engineer World's Fair</a>
@@ -198,21 +200,29 @@
 		<br>
 		<enhanced:img src="../lib/images/Lloyd at AI Engineer World's Fair.jpg" alt="Lloyd at AI Engineer World's Fair.jpg"/>
 		<enhanced:img src="../lib/images/Lloyd at AI Engineer Summit.jpg" alt="Lloyd at AI Engineer Summit.jpg"/>
+		<br>
+		<br>
 		<hr>
 		<a href="https://discord.com/channels/958775364962889859/1265400160993935480/1266600782590120107">Organize an in-person meetup</a>
-		<br>
+		<hr>
 		<enhanced:img src="../lib/images/Lloyd.jpg" alt="Lloyd.jpg"/>
 		<enhanced:img src="../lib/images/lloyd-in-san-francisco.jpg" alt="lloyd-in-san-francisco.jpg"/>
 		<br>
 		<enhanced:img src="../lib/images/2024 Organize an in-person meetup.jpg" alt="2024 Organize an in-person meetup.jpg"/>
 		<enhanced:img src="../lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg"/>
-		<hr>
-		<p style="color:DarkGray;">Sample screenshots</p>
 		<br>
+		<br>
+		<hr>
+		<p style="color:DarkGray;">Lloyd's AI bot's sample screenshots</p>
+		<hr>
 		<enhanced:img src="../lib/images/dark mode Yasin Ehsan.jpg" alt="dark mode Yasin Ehsan.jpg"/>
 		<enhanced:img src="../lib/images/light mode Yasin Ehsan.jpg" alt="light mode Yasin Ehsan.jpg"/>
+		<br>
+		<br>
 		<hr>
 		<p style="color:DarkGray;">Take care; thank you!</p>
+		<br>
+		<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7</a>
 		<br>
 		<Button>🌗</Button>
 		</h1>
