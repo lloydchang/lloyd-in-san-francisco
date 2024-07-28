@@ -11,7 +11,11 @@
 https://lloyd-in-san-francisco.pages.dev/
 "
 width="140"
-height="100"
+height="110"
+style="
+    border: none;
+    border-radius: 40% 10% / 20% 50%;
+    border:20px solid darkgray;"
 title="👋 Hello"
 >
 </iframe>
@@ -104,6 +108,7 @@ Worldwide 🌎 🌍 🌏 In Real Life
 <br>
 <img src="./src/lib/images/2024 Organize an in-person meetup.jpg" alt="Organize an in-person meetup.jpg" width="460" height="460">
 <img src="./src/lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg" width="460" height="460">
+<img src="../lib/images/Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" alt="Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" witdth="1000" height="2040"/>
 <hr>
 <p style="text-align: center;">
 Lloyd's AI bot — Sample screenshots
