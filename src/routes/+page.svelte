@@ -83,7 +83,7 @@
 
 	const submitForm = async () => {
 		if (!image || !question) {
-			alert("1. Drag a photo 👉 HERE 👈 to UPLOAD\nMirror, mirror, on the wall,\nwho's the fairest of them all?\n2. Ask your question 👉 HERE 👈, e.g. Why?\n3. Message my AI bot 👉 CLICK HERE 👈\n4. Please send me your 🫵 LinkedIn connection request and message me there\n5. Scroll up & Click 🌓 at ☝️ top 👆\n6. Scroll down & Click 🌗 at 👇 bottom 👇");
+			alert("1. Drag a photo 👉 HERE 👈 to UPLOAD\nMirror, mirror, on the wall,\nwho's the fairest of them all?\n2. Ask your question 👉 HERE 👈, e.g. Why?\n3. Message my AI bot 👉 CLICK HERE 👈\n4. Please send me your 🫵 LinkedIn connection request and message me there\n5. Scroll up & Click 👈🏿 🌚 👉🏿 at ☝️ top 👆\n6. Scroll down & Click 👈 🌝 👉 at 👇 bottom 👇");
 			return;
 		}
 
@@ -183,10 +183,10 @@
 	<enhanced:img src="../lib/images/QR code for www.linkedin.com in lloydchang.jpg" alt="QR code for www.linkedin.com in lloydchang.jpg"/>
 	<br>
 	<br>
-	5. Scroll up & Click 🌓 at ☝️ top 👆
+	5. Scroll up & Click 👈🏿 🌚 👉🏿 at ☝️ top 👆
 	<br>
 	<br>
-	6. Scroll down & Click 🌗 at 👇 bottom 👇</p>
+	6. Scroll down & Click 👈 🌝 👉 at 👇 bottom 👇</p>
 
 </center></h1>
 	<div class="footer">
