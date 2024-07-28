@@ -7,7 +7,12 @@
 
 <p style="text-align: center;">🌓
 <br>
-<iframe src="https://lloyd-in-san-francisco.pages.dev/">
+<iframe src="
+https://lloyd-in-san-francisco.pages.dev/
+"
+width="140"
+height="100"
+>
 </iframe>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
