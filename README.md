@@ -74,7 +74,7 @@ Project 1: Personal Website
 <br>
 ✅ Mention AI resources
 <br>
-✅ Being an AI engineer
+✅ Being an AI Engineer
 </p>
 <p style="text-align: center;">
 I attended
@@ -106,7 +106,7 @@ Worldwide 🌎 🌍 🌏 In Real Life
 <img src="./src/lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg" width="460" height="460">
 <hr>
 <p style="text-align: center;">
-Lloyd's AI bot's sample screenshots
+Lloyd's AI bot — Sample screenshots
 </p>
 <hr>
 <br>

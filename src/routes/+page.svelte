@@ -199,7 +199,7 @@
 		<br>
 		<enhanced:img src="../lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg"/>
 		<br>
-		<p style="color:DarkGray;">✅ Mention AI resources<br>✅ Being an AI engineer</p>
+		<p style="color:DarkGray;">✅ Mention AI resources<br>✅ Being an AI Engineer</p>
 		<br>
 		<br>
 		<p style="color:DarkGray;">I attended</p>
