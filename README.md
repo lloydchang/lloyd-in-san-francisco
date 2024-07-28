@@ -31,10 +31,10 @@ who's the fairest of them all?
 </a>
 <br>
 <br>
-4. Please send me your 🫵
+4. Please send me
 <br>
 <a href="https://www.linkedin.com/in/lloydchang/">
-LinkedIn connection request
+your 🫵 LinkedIn connection request
 </a>
 <br>
 and message me there
