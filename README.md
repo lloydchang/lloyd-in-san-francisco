@@ -49,12 +49,12 @@ and message me there
 <br>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
-5. Scroll up & Click 👈🏿 🌚 👉🏿 at ☝️ top 👆
+5. Scroll up & Click ✊🏿 🌚 🙌🏿 at ☝🏿 top 👆🏿
 </a>
 <br>
 <br>
 <a href="https://lloyd-in-san-francisco.pages.dev/">
-6. Scroll down & Click 👈 🌝 👉 at 👇 bottom 👇
+6. Scroll down & Click ✊ 🌝 🙌 at 👇 bottom 👇
 </a>
 <br>
 <br>
