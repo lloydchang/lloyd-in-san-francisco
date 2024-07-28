@@ -221,8 +221,30 @@
 		<br>
 		<enhanced:img src="../lib/images/2024 Organize an in-person meetup.jpg" alt="2024 Organize an in-person meetup.jpg"/>
 		<enhanced:img src="../lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg"/>
-		<br>
-		<br>
+		<div id='outerdiv'>
+		<iframe src="https://www.n2yo.com/space-station/" id='inneriframe' scrolling=no
+		title="live cam"
+		>
+		</iframe>
+		</div>
+		<style>
+		#outerdiv
+		{
+		width:0x;
+		height:880px;
+		overflow:hidden;
+		position:relative;
+		}
+		
+		#inneriframe
+		{
+		position:absolute;
+		top:-268px;
+		left:120px;
+		width:879px;
+		height:1140px;
+		}
+		</style>
 		<hr>
 		<p style="color:DarkGray;">Lloyd's AI bot — Sample screenshots</p>
 		<hr>

@@ -4,7 +4,6 @@
 <a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7
 </a>
 </p>
-
 <p style="text-align: center;">✊🏿 🌚 🙌🏿
 <br>
 <iframe src="
@@ -104,6 +103,31 @@ Worldwide 🌎 🌍 🌏 In Real Life
 <br>
 <img src="./src/lib/images/2024 Organize an in-person meetup.jpg" alt="Organize an in-person meetup.jpg" width="460" height="460">
 <img src="./src/lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg" width="460" height="460">
+<div id='outerdiv'>
+<iframe src="https://www.n2yo.com/space-station/" id='inneriframe' scrolling=no
+title="live cam"
+>
+</iframe>
+</div>
+<style>
+#outerdiv
+{
+width:0x;
+height:880px;
+overflow:hidden;
+position:relative;
+}
+
+#inneriframe
+{
+position:absolute;
+top:-268px;
+left:120px;
+width:879px;
+height:1140px;
+}
+</style>
+<hr>
 <hr>
 <p style="text-align: center;">
 Lloyd's AI bot — Sample screenshots
