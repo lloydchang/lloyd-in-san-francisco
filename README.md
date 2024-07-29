@@ -107,8 +107,13 @@ Worldwide 🌎 🌍 🌏 In Real Life
 <img src="./src/lib/images/lloyd-in-san-francisco.jpg" alt="lloyd-in-san-francisco.jpg" width="460" height="460">
 <br>
 <img src="./src/lib/images/2024 Organize an in-person meetup.jpg" alt="Organize an in-person meetup.jpg" width="460" height="460">
+<br>
 <img src="./src/lib/images/irl-san-francisco Meetup Places.jpg" alt="irl-san-francisco Meetup Places.jpg" width="460" height="460">
-<img src="../lib/images/Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" alt="Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" witdth="1000" height="2040"/>
+<br>
+<img src="./src/lib/images/Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" alt="Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" width="1000" height="2040"/>
+<br>
+<img src="./src/lib/images/Headstarter Fellows Meetup July 28 2024 at Salesforce Park in San Francisco.jpg" alt="Headstarter Fellows Meetup July 28 2024 at Salesforce Park in San Francisco.jpg" width="1170" height="1026"/>
+
 <hr>
 <p style="text-align: center;">
 Lloyd's AI bot — Sample screenshots
