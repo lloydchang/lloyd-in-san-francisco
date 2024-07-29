@@ -257,7 +257,11 @@
 		<br>
 		<enhanced:img src="../lib/images/Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" alt="Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg"/>
 		<br>
+		​<b>Headstarter Fellows Meetup on July 28, 2024 at Salesforce Park in San Francisco, California, USA</b>
+		<br>
 		<enhanced:img src="../lib/images/Headstarter Fellows Meetup July 28 2024 at Salesforce Park in San Francisco.jpg" alt="Headstarter Fellows Meetup July 28 2024 at Salesforce Park in San Francisco.png"/>
+		<br>
+		​<b>Headstarter Fellows Meetup on July 28, 2024 at Salesforce Park in San Francisco, California, USA</b>
 		<hr>
 		<p style="color:DarkGray;">Lloyd's AI bot — Sample screenshots</p>
 		<hr>

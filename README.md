@@ -1,14 +1,14 @@
 <p style="text-align: center;">
 <a href="https://www.youtube.com/watch?v=iqClmF_EUmU">4:45 AM</a>
-< https://img.youtube.com/vi/iqClmF_EUmU/0.jpg>
-<br>
+
+[![4:45 AM](https://img.youtube.com/vi/iqClmF_EUmU/0.jpg)](https://www.youtube.com/watch?v=iqClmF_EUmU "4:45 AM")
+
+<p style="text-align: center;">
 👋 Hello, World! 🗺️
 <br>
 <a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7
 </a>
 </p>
-[![4:45 AM](https://img.youtube.com/vi/iqClmF_EUmU/0.jpg)](https://www.youtube.com/watch?v=iqClmF_EUmU)
-[![4:45 AM](http://img.youtube.com/vi/iqClmF_EUmU/0.jpg)](http://www.youtube.com/watch?v=iqClmF_EUmU "4:45AM")
 <p style="text-align: center;">✊🏿 🌚 🙌🏿
 <br>
 <iframe src="
@@ -144,8 +144,11 @@ Worldwide 🌎 🌍 🌏 In Real Life
 <br>
 <img src="./src/lib/images/Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" alt="Headstarter_Fellows_Meetup_2024-7-28-San-Francisco.jpg" width="1000" height="2040"/>
 <br>
+​<b>Headstarter Fellows Meetup on July 28, 2024 at Salesforce Park in San Francisco, California, USA</b>
+<br>
 <img src="./src/lib/images/Headstarter Fellows Meetup July 28 2024 at Salesforce Park in San Francisco.jpg" alt="Headstarter Fellows Meetup July 28 2024 at Salesforce Park in San Francisco.jpg" width="1170" height="1026"/>
-
+<br>
+​<b>Headstarter Fellows Meetup on July 28, 2024 at Salesforce Park in San Francisco, California, USA</b>
 <hr>
 <p style="text-align: center;">
 Lloyd's AI bot — Sample screenshots
