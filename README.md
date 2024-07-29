@@ -74,6 +74,34 @@ Headstarter Fellowship
 Project 1: Personal Website
 </a>
 <br>
+<br>
+For your first project, you will be building a personal website that showcases your skills and experiences. This video will cover how to work with an HTML template, connect to a domain, deploy through GitHub pages, optimize for SEO, and setting up Google Analytics.
+<br>
+<br>
+Project Checklist
+<br>
+<br>
+[ ✔ ] Create a portfolio website that showcases your skills and experiences
+<br>
+<br>
+[ ✔ ] Create a 2-min video explaining your portfolio website design, inspiration, and future plans
+<br>
+<br>
+[ ✔ ] By Friday 7/26 6pm EST, make a Reddit post titled [Project 1 | Name | Page URL] with your live portfolio website link
+<br>
+<br>
+[ ✔ ] Bonus: Buy and connect to a custom domain for your portfolio website
+<br>
+<br>
+[ &nbsp; ] Bonus: Rank top 10 in SEO when searching your name
+<br>
+<br>
+[ ✔ ] Bonus: Create a product landing page and host on Vercel
+<br>
+<br>
+[ ✔ ] Bonus: Mention AI resources or showcase your excitement about being an AI-engineer in your portfolio website
+<br>
+<br>
 <img src="./src/lib/images/Project 1 - Personal Website.jpg" alt="Project 1 - Personal Website.jpg" width="460" height="460">
 <br>
 ✅ Mention AI resources
