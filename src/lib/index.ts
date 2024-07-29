@@ -1,7 +1,1 @@
 // place files you want to import through the `$lib` alias in this folder.
-<head>
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-  />
-</head>

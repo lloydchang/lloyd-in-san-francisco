@@ -1,9 +1,7 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { Youtube } from 'svelte-youtube-lite';
-	import Button2 from './dark-mode-toggle.svelte'
-	import { Styles } from '@sveltestrap/sveltestrap';
-	import { Button, Col, Row } from '@sveltestrap/sveltestrap';
+	import Button from './dark-mode-toggle.svelte'
 	let image: File | null = null;
 	let imageUrl: string | null = null;
 	let question: string = '';
@@ -114,12 +112,8 @@
 	};
 </script>
 
-<Styles />
-
 <svelte:head>
     <title>lloyd-in-san-francisco.pages.dev</title>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css">
 </svelte:head>
 
 <div class="container">
@@ -129,7 +123,7 @@
 	<br>
 	<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7</a>
 	<br></p>
-	<Button2>✊🏿 🌚 🙌🏿</Button2>
+	<Button>✊🏿 🌚 🙌🏿</Button>
 	<br>
 	<iframe src="
 	https://lloyd-in-san-francisco.pages.dev/
@@ -280,14 +274,13 @@
 		<br>
 		<a href="https://www.linkedin.com/in/lloydchang/">Lloyd | c | San Francisco UTC-7</a>
 		<br>
-		<Button2>✊ 🌝 🙌</Button2>
+		<Button>✊ 🌝 🙌</Button>
 		</h1>
 		<p style="color:DarkGray;">© 2024 Lloyd Chang</p>
 </div>
 </div>
 
 <style>
-  @import 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css';
 	:global(body) {
 		background-color: black;
 		color: #0084f6;
