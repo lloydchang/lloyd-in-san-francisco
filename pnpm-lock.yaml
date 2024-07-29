@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      '@sveltestrap/sveltestrap':
+        specifier: ^6.2.7
+        version: 6.2.7(svelte@4.2.18)
       posthog-js:
         specifier: ^1.150.0
         version: 1.150.0
@@ -61,7 +64,7 @@ importers:
         specifier: ^3.1.2
         version: 3.2.6(prettier@3.3.3)(svelte@4.2.18)
       svelte:
-        specifier: ^4.2.7
+        specifier: ^4.2.18
         version: 4.2.18
       svelte-check:
         specifier: ^3.6.0
@@ -593,6 +596,9 @@ packages:
   '@polka/url@1.0.0-next.25':
     resolution: {integrity: sha512-j7P6Rgr3mmtdkeDGTe0E/aYyWEWVtc5yFXtHCRHs28/jptDEWfaVOc5T7cblqy1XKPPfCxJc/8DwQ5YgLOZOVQ==}
 
+  '@popperjs/core@2.11.8':
+    resolution: {integrity: sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==}
+
   '@rollup/pluginutils@5.1.0':
     resolution: {integrity: sha512-XTIWOPPcpvyKI6L1NHo0lFlCyznUEyPmPY1mc3KpPVDYulHSTvyeLNVW00QTLIAFNhR3kYnJTQHeGqU4M3n09g==}
     engines: {node: '>=14.0.0'}
@@ -722,6 +728,11 @@ packages:
     peerDependencies:
       svelte: ^4.0.0 || ^5.0.0-next.0
       vite: ^5.0.0
+
+  '@sveltestrap/sveltestrap@6.2.7':
+    resolution: {integrity: sha512-WwLLfAFUb42BGuRrf3Vbct30bQMzlEMMipN/MfxhjuLTmLQeW9muVJfPyvjtWS+mY+RjkSCoHvAp/ZobP1NLlQ==}
+    peerDependencies:
+      svelte: ^4.0.0 || ^5.0.0 || ^5.0.0-next.0
 
   '@types/cookie@0.6.0':
     resolution: {integrity: sha512-4Kh9a6B2bQciAhf7FSuMRRkUWecJgJu9nPnx3yzpsfXX/c50REIqpHY4C82bXP90qrLtXtkDxTZosYO3UpOwlA==}
@@ -2204,6 +2215,8 @@ snapshots:
 
   '@polka/url@1.0.0-next.25': {}
 
+  '@popperjs/core@2.11.8': {}
+
   '@rollup/pluginutils@5.1.0(rollup@4.19.1)':
     dependencies:
       '@types/estree': 1.0.5
@@ -2323,6 +2336,11 @@ snapshots:
       vitefu: 0.2.5(vite@5.3.5(@types/node@20.14.12))
     transitivePeerDependencies:
       - supports-color
+
+  '@sveltestrap/sveltestrap@6.2.7(svelte@4.2.18)':
+    dependencies:
+      '@popperjs/core': 2.11.8
+      svelte: 4.2.18
 
   '@types/cookie@0.6.0': {}
 
